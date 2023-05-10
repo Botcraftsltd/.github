@@ -13,6 +13,14 @@ What sets us apart is our commitment to delivering exceptional customer service.
 A group of coders who make bots from different parts of the world.
 Trying to earn some money during the free time.
 
+
+### How do you place an order ?
+
+Join our discord server and get a ticket !! simple as that.
+
+Discord Server : https://discord.gg/rSCpms3h4R 
+
+
 ### Our prices (are low)
 
 **Create : : General  Bots:**
@@ -44,5 +52,7 @@ General Bots - 1 $ *(per 2 commands)*
  
 Self Bots - 1.5 $ *(per 2 new features)*
 
-**Help , Support  and Fixing : ** *Free forever*
-**Delivery within 1-4 days**
+**+Help , Support  and Fixing :** *Free forever*
+
+**+Delivery within 1-4 days**
+
