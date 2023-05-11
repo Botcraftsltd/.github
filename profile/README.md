@@ -44,6 +44,7 @@ Discord Self Bot -  3 $
 **Hosting :** 
 
 Via replit :  +0 $ *(warning  :  the code hosted will be open and not reliable)*
+
 Host it on our server :  +2 $
 
 **Upgrades :**
